@@ -1,0 +1,55 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+}
+
+.container {
+    width: 800px;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+}
+
+.header {
+    text-align: center;
+    border-bottom: 2px solid #333;
+    padding-bottom: 15px;
+}
+
+.foto {
+    width: 150px;
+    border-radius: 50%;
+}
+
+.nama {
+    font-size: 18px;
+    color: gray;
+}
+
+h2 {
+    color: black;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table th, table td {
+    border: 1px solid #999;
+    padding: 8px;
+    text-align: center;
+}
+
+ul li, ol li {
+    margin-bottom: 5px;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 14px;
+    color: gray;
+}
